@@ -1,0 +1,160 @@
+en:
+  custom_field_options:
+    domicile:
+      outside: Da qualche altra parte
+    education:
+      ISCED2: Istruzione secondaria inferiore
+      ISCED3: Istruzione secondaria superiore
+      ISCED4: Istruzione post-secondaria non terziaria
+      ISCED5: Educazione terziaria a ciclo breve
+      ISCED6: Bachelor o equivalente
+      ISCED7: Master o equivalente
+      ISCED8: Dottorato o equivalente
+    gender:
+      female: femmina
+      male: maschio
+      unspecified: Altro
+  custom_fields:
+    ideas:
+      attachments:
+        description: 
+        title: allegati
+      body:
+        description: 
+        title: descrizione
+      images:
+        description: 
+        title: Immagini
+      location:
+        description: 
+        title: Posizione
+      proposed_budget:
+        description: 
+        title: Budget proposto
+      title:
+        description: 
+        title: Titolo
+      topic_ids:
+        description: 
+        title: Argomenti
+    users:
+      birthyear:
+        title: Anno di nascita
+      domicile:
+        title: Luogo di residenza
+      education:
+        title: Istruzione
+      gender:
+        title: Genere
+  events:
+    council_meeting_description: |
+      <p>Durante questa riunione del consiglio, saranno presentate le iniziative dei cittadini che hanno ottenuto 100 voti in meno di 3 mesi. </p><p>Il consiglio condividerà quindi il loro punto di vista su ogni idea. </p>
+    council_meeting_title: riunione del Consiglio
+  idea_statuses:
+    accepted: accettati
+    accepted_description: Questa idea è stata accettata e sarà implementata dalla
+      città.
+    implemented: implementato
+    implemented_description: Questa idea è stata implementata dalla città.
+    proposed: proposto
+    proposed_description: Questa idea è stata proposta alla città
+    rejected: respinto
+    rejected_description: Questa idea è stata respinta
+    under_consideration: in esame
+    under_consideration_description: Questa idea è stata presa in considerazione dalla città
+    viewed: letta
+    viewed_description: Questa idea è stata vista da qualcuno della città
+  initiative_statuses:
+    answered: rispose
+    answered_description: rispose
+    expired: scaduto
+    expired_description: scaduto
+    ineligible: ineleggibile
+    ineligible_description: ineleggibile
+    proposed: proposto
+    proposed_description: proposto
+    threshold_reached: soglia raggiunta
+    threshold_reached_description: soglia raggiunta
+  initiatives:
+    default_eligibility_criteria: |
+      <ul><li>Deve rientrare nelle aree politiche e nelle competenze della politica locale</li>. <li>Serve l'interesse pubblico piuttosto che il tuo interesse individuale</li> <li>Non discrimina in base al sesso, alla razza, all'età o al background</li> <li>Non danneggia gli altri</li></ul>
+    default_threshold_reached_message: |
+      <p>Gli iniziatori sono invitati a presentare la loro proposta alla prossima riunione del consiglio. Forniremo un aggiornamento ufficiale. </p>
+  pages:
+    cookie_policy_title: Politica sui cookie
+    faq_title: FAQ
+    homepage_info_body: ""
+    homepage_info_title: ""
+    infopage_body: |-
+      <p>Questa <strong>piattaforma di partecipazione all-in-one</strong> è un'iniziativa del tuo comune o organizzazione e può essere utilizzata per diversi processi di consultazione pubblica: raccolta di idee, voto, discussione, sondaggi, sondaggi, budgeting partecipativo, mappatura online, pianificazione degli scenari, supporto per la consulenza consigli e comitati,... </p>
+      <p>Nella home page, vedrai quali <strong>processi sono attivi</strong> e in quale <strong>fase</strong> sono attualmente. </p>
+      <p></p><img data-cl2-text-image-text-reference="e2c7bc7a-017d-4887-a3cb-b94185617a59" alt="Horizontal separation rule" data-align="center" style="display: block; margin: auto;">
+      <h2>Come posso accedere alla piattaforma? </h2>
+      L'<p>accesso avviene facilmente fornendo nome e cognome e indirizzo e-mail. Puoi anche utilizzare il tuo account Google o Facebook. Solo il tuo nome e cognome saranno visibili agli altri. </p>
+      <h2>Posso usare personalmente la piattaforma, ad esempio per organizzare una consultazione pubblica? </h2>
+      <p>Assolutamente. Chiedi al responsabile all'interno del tuo comune o organizzazione di concederti i diritti di autorizzazione necessari per diventare moderatore del progetto. Una volta concesse queste autorizzazioni, puoi configurare il tuo progetto e la tua timeline e condividere le informazioni desiderate (video, documenti, immagini,...). Questo ti consentirà anche di invitare altri alla piattaforma, consentendo loro di pubblicare idee all'interno del tuo progetto, voto o commento. </p>
+      <h2>Posso partecipare come associazione/organizzazione/comitato? </h2>
+      <p>Sì, è possibile. Dato che solo il tuo nome e cognome sono visibili agli altri sulla piattaforma, puoi semplicemente usare il nome della tua organizzazione durante la configurazione del tuo profilo. </p>
+      <h2>Perché dovrei usare questa piattaforma e non creare un sito web da solo? </h2>
+      <p>Un team di sviluppatori e specialisti dedicati nella partecipazione online (<a href="https://www.citizenlab.co/en" target="_blank">CitizenLab,</a> commissionato dal tuo comune o organizzazione) sta migliorando e aggiornando questa piattaforma quotidianamente. Anche il bug più piccolo viene affrontato immediatamente e se hai proposte creative, possono aiutarti a sottolineare quali funzionalità della piattaforma possono essere utilizzate per questo o quali sono presenti nella pipeline. </p>
+      <p></p><img data-cl2-text-image-text-reference="392d0e47-e5f9-41ab-9ceb-affac617b8b1" alt="Horizontal separation rule" data-align="center" style="display: block; margin: auto;">
+      <p><strong><em>Hai bisogno di ulteriori informazioni? </em></strong><em>Vuoi usare la piattaforma? Domande o feedback? Contatta il responsabile all'interno del tuo comune o organizzazione. Oppure contatta CitizenLab tramite support@citizenlab.co. </em></p><strong>
+    infopage_title: Pagina delle informazioni
+    initiatives_body: |
+      <img style="margin-bottom: 30px" data-cl2-text-image-text-reference="b4e659ab-2830-48fd-b3ce-96e16856262f" height="374.3745928338762" width="819" alt=""><h2>Cos'è una proposta del cittadino? </h2><p>Come residente di $|ORGName| puoi inserire la tua proposta all'ordine del giorno tramite questa piattaforma. Queste proposte sono preferibilmente idee concrete legate alla politica locale e nascono da un bisogno, desiderio o sogno. Può essere la tua proposta o collaborativa. Forse vorresti cambiare o migliorare una situazione esistente o avviare un nuovo progetto. </p><p>Il coinvolgimento di $|ORGName| nell'attuazione della tua proposta deve essere necessario e possibile. In uno scenario ideale, sei disponibile anche per ulteriori riflessioni o collaborazioni, ma questo non è un obbligo. «Ridurre il limite di velocità sull'autostrada a 80 km/h» non è quindi una proposta forte, mentre «Trasformare la strada principale in una zona pedonale» è. Quindi portate avanti le vostre proposte! Se sono necessarie ulteriori informazioni, riceverai un aggiornamento o una reazione. </p><h2>Perché pubblicare una proposta su questa piattaforma? </h2><p>Questa è la piattaforma di partecipazione ufficiale di $|ORGName|, che offre i seguenti vantaggi:</p> <ul><li>$|ORGName| è ufficialmente coinvolto come proprietario di questa piattaforma e monitora attivamente ciò che accade qui. Quando pubblichi una proposta, il responsabile riceve automaticamente un messaggio. Non è necessario contattarli per assicurarti che la tua proposta venga presa in considerazione. </li><li>Questa piattaforma è stata sviluppata specificamente per azioni partecipative ufficiali, come le proposte dei cittadini. Ogni elemento, dall'esperienza utente all'approccio passo-passo, è costruito proprio per questo scopo. Quando si utilizzano i social media tradizionali, la tua proposta potrebbe scomparire nel sovraccarico di stimoli e una normale e-mail scompare rapidamente in una casella di posta completa. </li><li>Anche i tuoi concittadini sono presenti su questa piattaforma. Possono supportare e perfezionare la tua proposta. Più è creativa la tua proposta e maggiore sarà il supporto che riesce a raccogliere, maggiori sono le possibilità che verrà implementata! </li></ul><h2>Come si inizia? </h2><p>Innanzitutto, controlla se la tua proposta soddisfa i seguenti criteri:</p> <p>$|InitiativeIgibilityCriteria|</p> <h2>Cosa puoi aspettarti quando la tua proposta raggiunge $|InitiativesVotingThreshold| voti entro $|InitiativesDayLimit| days? </h2><p>$|InitiativesThresholdreachedMessage|</p> <h2>Cosa succede alle proposte che non ricevono $|InitiativeSogliaVotingSoglia| voti puntuali? </h2><p>Succede, ma non preoccuparti. La tua proposta rimarrà sulla piattaforma. Lo stato della tua proposta cambierà automaticamente in «Scaduto». Di conseguenza, il voto non sarà più possibile. Se lo desideri, puoi scegliere di eliminare la tua proposta in qualsiasi momento. </p>
+    initiatives_success_1_body: |
+      <p><em>Liegi (BE)</em></p> <p><strong>Argomento: Mobilità</strong></p> <img style="margin-bottom: 30px" data-cl2-text-image-text-reference="3302395e-0a1b-4be8-8ab2-9fc0dff61d4d" alt=""><h2>Come è iniziato</h2> <p>Liegi, una delle più grandi città del Belgio, ha aperto la loro piattaforma di partecipazione al crowdsource per il loro «piano urbano», un piano strategico pluriennale contenente le priorità politiche per la città. </p><p>Dopo un invito aperto alle idee, la città ha raggruppato queste idee in cluster tematici più grandi. La proposta «River Shuttle» è iniziata da uno di questi gruppi ed è stata aperta per votare a tutti gli abitanti. </p><p>Oltre il 15% dei 200.000 abitanti di Liegi ha sfogliato la piattaforma e ha espresso i loro voti. </p><h2>Il progetto</h2> <p>Liegi ha già utilizzato con successo un servizio navetta fluviale per scopi turistici durante 2 stagioni estive, consentendo ai turisti di scoprire la città dal fiume Mosa. Ciò ha ispirato almeno 9 cittadini a dare un contributo su come pensavano che questo servizio potesse essere migliorato e ampliato. Quello che avevano in comune era:</p> <ul><li>il desiderio di iniziare a focalizzare questo servizio navetta anche sui pendolari,</li> di <li>espandere il servizio dall'estate solo a tutto l'anno e</li> di <li>aggiungere diverse fermate alla traiettoria della navetta. </li></ul><p>Il loro contributo combinato ha raccolto un totale di 1336 voti ed è stato raggruppato in 1 cluster, ulteriormente modellato attraverso i commenti di altri cittadini. </p><p>La città di Liegi ha ascoltato questa proposta e ha deciso di agire su di essa. Oggi è in corso uno studio approfondito su come il servizio navetta possa effettivamente essere ampliato. I risultati di questo studio saranno utilizzati per la futura implementazione. </p><h2>Fattori di successo</h2> <ul><li>Infrastruttura di base presente: l'implementazione di questa proposta non ha bisogno di partire da zero. L'infrastruttura, in questo caso il costo maggiore, è già presente, così come l'esperienza con lo sfruttamento e il quadro giuridico. </li><li>Parte di un processo più ampio: poiché questa proposta ha avuto origine nel processo «Piano urbano» di Liegi, i cittadini dietro la proposta hanno beneficiato delle azioni di comunicazione in tutta la città. Inoltre, dato il buy-in dei decisori e il coinvolgimento dell'amministrazione comunale, è stato garantito un follow-up corretto e strutturato. </li><li>Legato a problemi ampiamente condivisi: sebbene il servizio navetta suggerito in questa proposta non sarà mai utilizzato da tutti i Liégeois, mira a risolvere un problema più grande che influisce su tutte le persone che vivono in città, vale a dire la congestione del traffico. </li></ul><p><em>Altro contesto:</em> <a href="https://www.citizenlab.co/case-studies-en/liege" target="_blank"><em>caso CitizenLab Liegi</em></a></p> <p>Conosci una proposta ispiratrice dei cittadini che dovrebbe essere aggiunta a questa lista? <a href="mailto:support@citizenlab.co" target="_blank">Aggiungi la tua proposta ispiratrice per i cittadini alla lista</a>! </p>
+    initiatives_success_1_title: Navetta fluviale
+    initiatives_success_2_body: |
+      <p><em>Schaerbeek (BE)</em></p> <p><strong>Argomento: Mobilità</strong></p> <img style="margin-bottom: 30px" data-cl2-text-image-text-reference="033f5120-1f24-4d8b-ad89-82b94eb3c0db" height="450" width="675" alt=""><h2>Come è iniziata</h2> <p>Diverse strade di Schaerbeek non sono state a lungo sicure per le strade vulnerabili utenti. Dopo un incidente stradale mortale nel luglio 2017 nella zona 30, alcuni cittadini hanno deciso di intervenire. </p><h2>Il progetto</h2> <p>1030/0 è un movimento cittadino che si distingue per la sicurezza stradale e una migliore mobilità a Schaerbeek. I quattro assi principali della loro operazione sono:</p> <ul><li>Vision Zero: zero kill, zero vittime pesanti nel traffico. </li><li>Qualità della vita: un «comune 30" dove l'utente attivo della strada può viaggiare in modo efficiente e sicuro, ma anche un comune con spazio per riunioni e socializzazione. </li><li>Particolare attenzione ai più vulnerabili in viaggio: bambini, anziani, persone con disabilità. </li><li>Salute: migliorare la sicurezza stradale consente di promuovere modalità di trasporto attive e combattere l'inquinamento atmosferico. </li></ul><p>Cosa hanno ottenuto finora:</p> <ul><li>ottenuta la Zona 30. </li><li>Vision Zero è stato assunto come linea politica ufficiale. </li><li>Il comune ha redatto una nota strategica sulla sicurezza stradale. </li><li>La brigata di biciclette della polizia è stata (ri) istituita. </li><li>Sono state liberate risorse aggiuntive per il controllo della velocità. </li><li>Dal 2019 esiste un sistema di «strade viventi». </li></ul><h2>Fattori di successo</h2> <ul><li>Ampia mobilitazione: diverse dimostrazioni con 60-200 partecipanti ciascuna. </li><li>Approccio proattivo ai media: costruire buone relazioni e pensare visivamente e narrativamente. Soprattutto dal lato fiammingo c'era già molta attenzione ai media per la proposta. </li><li>Il tema è molto popolare tra la popolazione. </li><li>Perseveranza e attività all'aperto: in un solo anno, hanno organizzato 20 diverse azioni. </li></ul><h2>Bottlenecks</h2> <ul><li>Diversity è un punto di lavoro, non solo in termini di origine ma anche in termini di età. Viene migliorato grazie alle collaborazioni con centri giovanili locali e organizzazioni no profit. </li>I <li>media francofoni sono più difficili da raggiungere. </li></ul></a><h2>Contatto</h2> <p>Email: <a href="mailto:collectif1030.0@gmail.com" target="_blank">collectif1030.0@gmail.com</a></p> <p>Sito web: <a href="www.facebook.com/1030zero" target="_blank">www.facebook.com/1030zero</a></p> <p><em>Fonte:</em> <em>Burgervuur - De Wakkere Burger</em></p> <p>Lo sai una proposta ispiratrice dei cittadini che dovrebbe essere aggiunta a questa lista? <a href="mailto:support@citizenlab.co" target="_blank">Aggiungi la tua proposta ispiratrice per i cittadini alla lista! </a>! </p>
+    initiatives_success_2_title: 1030/0
+    initiatives_success_3_body: |
+      <p><em>Wortegem-Petegem (BE)</em></p> <p><strong>Argomento: Piazze e strade</strong></p> <img style="margin-bottom: 30px" data-cl2-text-image-text-reference="7430afb9-bbd4-49f3-a894-c7d41e642de7" height="552" width="736" alt=""><h2>Come è iniziata</h2> <p>Questa proposta è nata da un budget partecipativo progetto di Wortegem-Petegem. Questo piccolo comune belga con 6.500 abitanti ha aperto 100.000€ del suo budget per le proposte crowdsourcing. </p><p>I cittadini sono stati invitati a condividere le loro proposte sulla piattaforma di partecipazione digitale di Wortegem-Petegem per un periodo di due mesi. </p><p>Dopo una selezione qualitativa da parte dell'amministrazione, 40 proposte su un totale di 55 sono state respinte e aperte al voto di tutti gli abitanti. La votazione è avvenuta sia online che durante un evento offline in cui tutte le proposte sono state presentate in diretta dai loro iniziatori. </p><h2>Il progetto</h2> <p>L'idea per la proposta è semplice: aggiungere tavoli da picnic in ogni parco giochi di Wortegem-Petegem. Questo non solo consente ai genitori di riposare mentre i loro (nonni) figli giocano, ma permette anche di incontrare altre persone del vostro comune nel frattempo. </p><p>Essendo una delle proposte più popolari nel progetto di budget partecipativo, Wortegem-Petegem ha deciso di implementarla. Da allora i tavoli da picnic sono stati installati in 6 posizioni. </p><h2>Fattori di successo</h2> <ul><li>Processo chiaro e follow-up: Wortegem-Petegem ha elaborato un processo chiaro prima di iniziare a raccogliere le proposte dei cittadini, inclusa la collaborazione tra i diversi dipartimenti. C'è stato anche un follow-up costante e personale, per assicurarsi che tutti i cittadini coinvolti fossero tenuti nel ciclo delle misure adottate e dei prossimi piani. E c'è stato l'impegno ad attuare tutte le proposte trattenute prima della fine del periodo estivo successivo. </li><li>Alto livello di partecipazione: il 14% della popolazione votante (14 anni o più) di Wortegem-Petegem ha votato le loro proposte preferite. </li><li>Questa proposta dei cittadini è stata ben portata, con una chiara finalità e costi fissi limitati e costi di manutenzione. </li></ul><p><em>Contesto:</em> <a href="https://www.citizenlab.co/case-studies-nl/wortegem-petegem" target="_blank"><em>caso CitizenLab (NL)</em></a></p> <p>Conosci una proposta ispiratrice per i cittadini che dovrebbe essere aggiunta a questa lista? <a href="mailto:support@citizenlab.co" target="_blank">Aggiungi la tua proposta ispiratrice per i cittadini alla lista! </a>! </p>
+    initiatives_success_3_title: Tavoli da picnic nei parchi giochi
+    initiatives_title: Proposte
+    privacy_policy_title: Informativa sulla privacy
+    terms_and_conditions_body: |
+      <p>Questi termini e condizioni delineano le regole e le linee guida per contribuire alla piattaforma e hanno lo scopo di contribuire a garantire un dialogo costruttivo. </p>Le <p>tue idee per migliorare ulteriormente la piattaforma sono benvenute e possono essere inviate a support@citizenlab.co. </p><h2>Chi può partecipare? </h2><p>Chiunque è in grado di visualizzare progetti pubblici tramite la piattaforma. Se desideri contribuire con contenuti (ad esempio, inviare input o votare), dovrai registrarti e creare un account. Puoi registrarti utilizzando il tuo indirizzo e-mail; per alcune piattaforme potrebbe anche essere possibile accedere utilizzando un account Facebook o Google esistente. Se utilizzi uno di questi servizi, il tuo nome, indirizzo e-mail e foto del profilo verranno condivisi e aggiunti all'account della tua piattaforma. </p><p>Tieni presente che la creazione del tuo account non ti dà la proprietà. Gli amministratori della piattaforma possono rifiutare, sospendere o eliminare gli account per motivi come non rispettare i termini e le condizioni delineati in questa pagina. </p><p>Le condizioni generali per il tuo account sono le seguenti:</p> <ul><li><strong>puoi creare un account Un</strong> <p>individuo non può creare e gestire più account. I dettagli dell'account forniti devono essere accurati e questo account non può essere trasferito a qualcun altro senza il permesso di un amministratore della piattaforma. </p></li><li><strong>Il tuo account non può essere utilizzato per la promozione commerciale</strong> <p>Un account non può essere utilizzato al solo scopo di pubblicità, marketing di un prodotto o servizio, ecc.</p></li> <p><li><strong>Sei responsabile di mantenere le informazioni del tuo account sicure e riservate</strong> l'unica persona che dovrebbe utilizzare il tuo account e avere accesso alla password e ai dettagli di accesso del tuo account. Per migliorare la sicurezza del tuo account, ti consigliamo di utilizzare una password con una combinazione di numeri, lettere minuscole e lettere maiuscole. Non siamo responsabili per eventuali perdite o danni subiti al tuo account e non possiamo essere ritenuti responsabili per il furto (ad esempio tramite phishing). Tieni presente che non ti chiederemo mai i dettagli di accesso come la password. </p><h2>La tua attività sulla piattaforma</h2> <p>Per garantire una partecipazione sicura e produttiva, ci sono alcune restrizioni sul tipo di contenuto che potrebbero essere pubblicati su questa piattaforma. Qualsiasi contenuto pubblicato sulla piattaforma deve essere privo di:</p> <ul><li><strong>Dati privati I dati</strong> <p>riservati e le informazioni personali su altri, come numeri di telefono e indirizzi non possono essere pubblicati senza la loro espressa autorizzazione e consenso. </p><li><strong>Spam/malware /phishing/virus/worm/Trojan</strong> <p>Contenuti dannosi o link intesi a violare la privacy altrui o danneggiare o disturbare i browser o i computer di altri. </p></li><li><strong>Minacce, insulti e altri contenuti inappropriati</strong> <p>Attacchi personali e insulti, comportamenti o linguaggio minacciosi, commenti discriminatori, parolacce e altro linguaggio offensivo. </p></li><li><strong>Attività pubblicitarie e commerciali</strong> <p>Contenuti pubblicati al solo scopo di pubblicizzare un servizio o un prodotto commerciale. </p></li><li><strong>Materiale protetto da copyright</strong> <p>Contenuti che violano i diritti di proprietà intellettuale (ad esempio immagini protette da copyright). </p></li><li><strong>Attività illegali</strong> <p>Contenuti che in qualsiasi modo promuovono attività illegali. </li></p></ul>Gli <p>invii e altri contenuti che includono uno dei precedenti possono essere modificati, eliminati o altrimenti impediti di essere pubblicati e l'account potrebbe essere temporaneamente bloccato o eliminato definitivamente. Anche i conti nuovi o aggiuntivi creati per evitare sospensioni temporanee o permanenti possono essere monitorati ed eliminati. </p><h2>Leggi applicabili</h2> <p>L'uso di un account potrebbe non violare le leggi applicabili. Ciò include qualsiasi violazione della legislazione sulla privacy, dei diritti di proprietà intellettuale, del codice penale, ecc.</p> <p>Non possiamo essere ritenuti responsabili in alcun modo per i contenuti pubblicati sulla piattaforma che non rispettano le regole e le leggi di cui sopra. Le violazioni possono essere segnalate a support@citizenlab.co e possono comportare la cancellazione dei messaggi pertinenti e/o la sospensione o la revoca definitiva dell'account sottostante. </p><p>È possibile che i contenuti pubblicati sulla piattaforma contengano file o link dannosi. Scaricando file o accedendo ai collegamenti ipertestuali tramite la piattaforma, l'utente si assume il rischio e la responsabilità per eventuali danni che potrebbero subire. </p><h2>Diritti di proprietà</h2> <p>Questa piattaforma è protetta dai diritti di proprietà intellettuale relativi al suo contenuto, codice sorgente, database, ecc. Qualsiasi contenuto originale pubblicato sulla piattaforma può essere visibile al pubblico e rientra in Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4) .0) Public License, che consente di condividere o adattare i contenuti con l'attribuzione. L'utente non può altrimenti riprodurre, distribuire, modificare o trasmettere la piattaforma e i suoi contenuti che non rientrano di dominio pubblico senza autorizzazione. </p>
+    terms_and_conditions_title: Termini e condizioni
+  projects:
+    open_idea_project_description: |
+      <p>Qui puoi iniziare la tua idea se non rientra in uno dei progetti esistenti. </p><p><strong>L'obiettivo? </strong>Per far entrare la tua idea nell'agenda politica. </p><p><strong>Come? </strong>Raccogliendo sostegno, vale a dire almeno 100 voti in 3 mesi. Puoi farlo prima rendendo la tua idea «attraente». Scrivilo in modo chiaro e coinvolgente, aggiungi immagini, fornisci argomenti forti basati su fatti, aggiungi allegati con ulteriori dettagli o informazioni di sfondo,... Dopo averlo fatto, inizia a condividere la tua idea sui social media o tramite e-mail. Invita le persone a partecipare alla discussione sulla tua idea o semplicemente convincerle a sostenerla votando a favore. </p><p><strong>Su cosa? </strong>La tua idea può riguardare molte cose, purché sia legata alla tua città e alla sua politica. Può essere un problema che si verifica, una soluzione che si immagina o anche una combinazione di entrambi. Può essere selvaggio e a lungo termine, o molto tangibile e veloce. </p><p><strong>E poi? </strong>Hai raggiunto i 100 voti in 3 mesi? Congratulazioni! La città ora prenderà in considerazione la tua idea. Se la tua idea è considerata fattibile e non danneggia gruppi o individui specifici, avrai la possibilità di presentare la tua proposta durante la riunione del consiglio. Durante la stessa riunione, i membri del consiglio ti daranno un feedback diretto su cosa faranno o non faranno con la tua idea e perché. Se non si raccolgono 100 voti in 3 mesi, la tua proposta non verrà presa in considerazione. </p><p>Siamo curiosi di conoscere le tue idee! </p>
+    open_idea_project_description_preview: Forse hai un'idea che non si adatta a uno
+      dei progetti esistenti? E poi pubblicalo qui, raccogli sostegno e mettilo nell'agenda
+      politica!
+    open_idea_project_title: Un'idea? Portalo al tuo consiglio!
+  symbols:
+    outside: da qualche altra parte
+  topics:
+    community: Sviluppo della comunità
+    community_description: Sviluppo della comunità
+    culture: Cultura, sport ed eventi
+    culture_description: Cultura, sport ed eventi
+    economy: Lavoro, economia e turismo
+    economy_description: Lavoro, economia e turismo
+    education: Istruzione e gioventù
+    education_description: Istruzione e gioventù
+    health: Salute e benessere
+    health_description: Salute e benessere
+    housing: Alloggiamento
+    housing_description: Alloggiamento
+    inclusion: Inclusione sociale
+    inclusion_description: Inclusione sociale
+    mobility: Mobilità
+    mobility_description: Mobilità
+    nature: Natura e biodiversità
+    nature_description: Natura e biodiversità
+    other: Altro
+    other_description: Altro
+    public_space: Spazi pubblici ed edifici
+    public_space_description: Spazi pubblici ed edifici
+    safety: Sicurezza
+    safety_description: Sicurezza
+    services: Servizi pubblici
+    services_description: Servizi pubblici
+    sustainability: Sviluppo sostenibile
+    sustainability_description: Sviluppo sostenibile
+    technology: Energia e tecnologia
+    technology_description: Energia e tecnologia
+    waste: Pulizia e rifiuti
+    waste_description: Pulizia e rifiuti
